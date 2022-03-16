@@ -1,4 +1,4 @@
-# dtmoney-rocketseat-reactjs
+# Projeto DTMoney Rocketseat-Trilha ReactJS
 
 Aplicativo de controle financeiro, de entrada e saída de valores. Projeto feito e estudado na trilha de React na Rocketseat.
 
@@ -10,6 +10,11 @@ Dividido em vários arquivos para melhor organização, usado também o MirageJS
 
 Criamos também o Modal para o cadastramento das Entradas e das Saídas, e estilizamos o mesmo.
 
+
 Foi estudado também o Context API no React e criado hook para finalizar o app.
 
 Futuramente vou implementar um backend real e outras funcionalidades, para deixar a aplicação mais próxima do usual.
+
+![Captura de Tela (35)](https://user-images.githubusercontent.com/69223872/158676874-c8d41a4c-f499-482c-a9bd-a06560634636.png)
+
+![Captura de Tela (36)](https://user-images.githubusercontent.com/69223872/158677012-6d37f442-001e-4d4b-b25d-f45548145556.png)
